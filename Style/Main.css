@@ -1,0 +1,131 @@
+:root{
+    --vermelho: #e50914;
+    --preto: black;
+}
+body{
+    background-color: var(--vermelho);
+    
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: var(--preto);
+    font-family: sans-serif;
+    color: white;
+    align-items: center;
+
+
+}
+
+header .container{
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+header .logo{
+    margin-left: 5px;
+    color: var(--vermelho);
+    font-family: 'Arial Black';
+    font-size: 40px;
+    
+}
+
+header nav a{
+    text-decoration:none;
+    color: #AAA;
+    margin-right: 10px;
+    font-family: Arial black;
+}
+header nav a:hover{
+    color: white;
+}
+
+.filme-principal {
+    background: url('/Img/capa\ 4.jpg');
+    
+    background-size: 100%;
+    height: 845px;
+    width: 1330px;
+
+    margin-left: 10px;
+    margin-right: 10px;
+
+    
+}
+
+.filme-principal .descricao{
+    margin-left: 5px;
+    font-family: Arial black;
+    margin-right: 50%;
+    display: flex;
+}
+
+
+
+.botao{
+    background-color: rgba(0, 0, 0, .50);
+    border: none;
+    padding: 10px 10px;
+    
+    margin-left: 40px;
+    margin: 15px;
+    margin-top: 50px;
+    
+    cursor: pointer;
+    transition: 2s ease all;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.botao:hover{
+    color: white;
+    border-radius: 25px;
+    background-color: blue
+
+}
+
+.container{
+    margin: 10px;
+    margin-left: 10px;
+    
+}
+
+.filme-principal .container{
+    width: 80%;
+}
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+
+.botao i{
+    margin-right: 10px;
+    color: white;
+    font-size: 15px;
+    font-style: italic;
+    margin: 10px;    
+    align-items: center;
+
+}
+
+.container .imagem-titulo{
+    align-content: center;
+
+
+    
+}
+.container .nav-link{
+    text-decoration: none;
+    color: white;
+}
