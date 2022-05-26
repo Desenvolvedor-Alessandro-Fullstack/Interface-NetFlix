@@ -12,6 +12,8 @@
 * Adição da Sinopose do filme 
 * Adição de Icones de botões
 * Adição de rodapé
+* Posicionar elementos com Flexbox
+* Utilizar plugins JQuery
 
 ### Programas e Sites Ultilizados:
 * Visual Studio Code (VSC)
