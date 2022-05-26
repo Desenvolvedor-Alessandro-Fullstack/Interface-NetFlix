@@ -1,6 +1,6 @@
 # Projeto Recriando a Interface NETFLIX 🎬
 ## Tema:
-## Doutor Estranho no Multverso da Loucura 📹
+# **Doutor Estranho no Multverso da Loucura** 📹
 ### Desafios:
 * Nova roupagem na interface
 * Novos botões inteligentes
@@ -26,5 +26,5 @@
 ### Agradecimentos:
 * [WEB.DIO.ME](https://www.dio.me/)
 * [Profº Felipe Aguiar](https://www.linkedin.com/in/felipe-aguiar-047)
-### Desenvolvedor
-✒ [**Alessandro Souza da Silva**](https://github.com/Desenvolvedor-Alessandro-Fullstack)✔
+### Desenvolvedor:
+✒ [**Alessandro Souza da Silva**](https://www.linkedin.com/in/alessandro-silva-fullstack/)✔
