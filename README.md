@@ -1,48 +1,31 @@
 <h1>Projeto Recriando a Interface NETFLIX</h1>
 <h2>Tema:
-    Doutor Estranho no Multverso da Loucura
+    <br>
+  Doutor Estranho no Multverso da Loucura
 </h2>
 <h2>Desafios:</h2>
-<ul>
-    <li>
-        Nova roupagem na interface
-        Novos botões inteligentes
-        Novo Carrossel de filmes
-        Novos hiper links
-        Novo menu nav-bar
-        Adição do titulo-filme
-        Adição logo
-        Adição da Sinopose do filme 
-        Adição de Icones de botões
-        Adição de rodapé
-    </li>
-</ul>
+    <li>Nova roupagem na interface
+    <li>Novos botões inteligentes
+    <li>Novo Carrossel de filmes
+    <li>Novos hiper links
+    <li>Novo menu nav-bar
+    <li>Adição do titulo-filme
+    <li>Adição logo
+    <li>Adição da Sinopose do filme 
+    <li>Adição de Icones de botões
+    <li>Adição de rodapé
 <h2>Programas e Sites Ultilizados:</h2>
-<ul>
-    <li>
-        Visual Studio Code (VSC)
-        GitHub
-        YouTube
-        Disneyplus
-        Bootscraps
-    </li>
-</ul>
+    <li>Visual Studio Code (VSC)
+    <li>GitHub
+    <li>YouTube
+    <li>Disneyplus
+    <li>Bootscraps
 <h2>Linguagens Ultilizadas:</h2>
-<ul>
-    <li>
-        Java Script
-        HTML5
-        CSS3
-
-    </li>
-</ul>
+    <li>Java Script
+    <li>HTML5
+    <li>CSS3
 <h2>Agradecimentos:</h2>
-<ul>
-    <li>
-        (DIO.ME)[www.web.dio.me]
-        (Profº Felipe Aguiar)[https://www.linkedin.com/in/felipe-aguiar-047]
-    </li>
-</ul>
-<footer>
-    (Alessandro Souza da Silva)[https://github.com/Desenvolvedor-Alessandro-Fullstack]
-</footer>
+<li>[WEB.DIO.ME](https://www.dio.me/)</li>
+<li>[Profº Felipe Aguiar] (https://www.linkedin.com/in/felipe-aguiar-047)</li>
+<h2>Desenvolvedor</h2>
+[Alessandro Souza da Silva](https://github.com/Desenvolvedor-Alessandro-Fullstack)
